@@ -42,7 +42,7 @@ public class BankonetClientApp {
 				action.execute();
 			});
 			System.out.println("");
-			tototo
+		
 		}
 		
 	}
