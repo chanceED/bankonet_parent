@@ -41,7 +41,7 @@ public class BankonetClientApp {
 			actions.stream().filter(action -> action.getId().equals(choix)).forEach(action -> {
 				action.execute();
 			});
-			System.out.println("");jghgh
+			System.out.println("");
 		
 		}
 		
